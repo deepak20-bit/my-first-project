@@ -1,2 +1,9 @@
 # my-first-project
-My first GitHub project for learning Git and GitHub. A simple calculator app built with Python. Personal portfolio website. Collection of Java programming exercises.
+Hello! My name is Deepak Prajapat.
+This repository was created to learn GitHub and version control.
+## About Me
+- B.Pharm Graduate
+- Interested in Medical Coding
+- Learning GitHub
+## Contact
+GitHub Profile: @deepak20-bit
